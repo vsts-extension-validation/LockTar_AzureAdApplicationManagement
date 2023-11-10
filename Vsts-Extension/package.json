@@ -8,7 +8,7 @@
     "gulp": "^4.0.2",
     "gulp-hub": "github:frankwallis/gulp-hub#4.2.0",
     "npm": "^9.6.4",
-    "tfx-cli": "^0.14.0",
+    "tfx-cli": "^0.16.0",
     "vss-web-extension-sdk": "^5.141.0"
   },
   "scripts": {
